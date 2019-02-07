@@ -1,2 +1,4 @@
 # hello-world
-A repository 
+Hi,
+
+My name is Susie and I like computer science 
